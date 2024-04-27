@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.image {
+  width: 200px;
+  height: 140px;
+}
+.button {
+  background-color: transparent;
+  border: 0px solid white;
+  margin-right: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  padding: 10px;
+  border:0px solid white;
+}
+
+.close-button {
+  align-self: end;
+  background-color: transparent;
+  border:0px solid white;
+}
+
+.video-container {
+  padding: 20px;
+}
